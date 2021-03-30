@@ -1,4 +1,2 @@
-MNIST_data/
-F_MNIST_data/
+data/
 __pycache__/
-Cat_Dog_data/
